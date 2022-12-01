@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asteroids 2022 - Marcos Alonso Reyero</string>
+    <string name="titulo_aplicacion">Asteroids</string>
+    <string name="boton_arrancar">Play</string>
+    <string name="boton_configurar">Setup</string>
+    <string name="boton_puntuaciones">Ranking</string>
+    <string name="boton_acercade">About</string>
+    <string name="boton_salir">Exit</string>
+    <string name="texto_acercade">At the end of 1979, Atari would revolutionize the world of video games through the Asteroids arcade. Being still an industry in its infancy, this classic would end up influencing a lot of martians of the time. And in 2019 it is still remembered for its main mechanics.</string>
+</resources>

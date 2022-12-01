@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Asteroides 2022 - Marcos Alonso Reyero</string>
+    <string name="titulo_aplicacion">Asteroides</string>
+    <string name="boton_arrancar">Jugar</string>
+    <string name="boton_configurar">Configurar</string>
+    <string name="boton_puntuaciones">Puntuaciones</string>
+    <string name="boton_acercade">Acerca de</string>
+    <string name="boton_salir">Salir</string>
+    <string name="texto_acercade">A finales de 1979, Atari revolucionaría el mundo de los videojuegos por medio de la recreativa Asteroids. Siendo todavía una industria en pañales, este clásico acabaría influenciando a un montón de matamarcianos de la época. Y en 2019 aún se le sigue recordando por su mecánica principal.</string>
+</resources>
